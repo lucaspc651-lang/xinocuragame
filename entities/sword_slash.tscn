@@ -1,0 +1,6 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://scene/scripts/sword_slash.gd" id="1_slash"]
+
+[node name="SwordSlash" type="Node2D"]
+script = ExtResource("1_slash")
